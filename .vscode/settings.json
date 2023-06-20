@@ -1,0 +1,50 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "My_Conn",
+            "database": "student",
+            "username": "root",
+            "password": "Shanky@123"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "My_conn",
+            "database": "person",
+            "username": "root",
+            "password": "Shanky@123"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "qwerrty",
+            "database": "politicians",
+            "username": "root",
+            "password": "Shanky@123"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ASUS\\Downloads\\mysql-connector-j-8.0.32\\mysql-connector-j-8.0.32\\mysql-connector-j-8.0.32.jar",
+        "c:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\lib\\servlet-api.jar"
+    ],
+    "java.jdt.ls.java.home": ""
+}
